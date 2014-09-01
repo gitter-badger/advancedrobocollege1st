@@ -1,0 +1,4 @@
+-cpu=300HN
+-output="C:\Users\nishimura\Desktop\OMNIKIT_0112\GamePad_A\Release\GamePad_A.lib"
+-head=runtime,new,stdio,stdlib
+-lang=c

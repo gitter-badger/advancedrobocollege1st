@@ -1,0 +1,10 @@
+-cpu=300HN
+-include="C:\Users\nishimura\Desktop\H8_new_AGV_S0810\GamePad_A"
+-lang=c
+-object="C:\Users\nishimura\Desktop\H8_new_AGV_S0810\GamePad_A\Debug\BlackJaguar.obj"
+-outcode=sjis
+-debug
+-nolist
+-chgincpath
+"C:\Users\nishimura\Desktop\H8_new_AGV_S0810\GamePad_A\BlackJaguar.c"
+-nologo

@@ -1,0 +1,6 @@
+プロジェクト名 : GamePad_A
+
+Hitachi H8S,H8/300 Standard Toolchainを6.2.1.0 -> 7.0.0.0にアップグレードしました。
+
+[Standard Library]/[Mode]/[Mode :]オプションを変更した。
+

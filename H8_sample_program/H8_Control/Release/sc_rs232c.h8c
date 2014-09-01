@@ -1,0 +1,8 @@
+-cpu=300HN
+-lang=c
+-object="C:\WorkSpace\H8_sample_program\H8_Control\Release\sc_rs232c.obj"
+-outcode=sjis
+-nolist
+-chgincpath
+"C:\WorkSpace\H8_sample_program\H8_Control\sc_rs232c.c"
+-nologo

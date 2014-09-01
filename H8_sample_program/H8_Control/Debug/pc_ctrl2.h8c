@@ -1,0 +1,10 @@
+-cpu=300HN
+-include="C:\Program Files\Renesas\Hew","C:\Program Files\Renesas\HEW\System\Pg\Renesas\H8\H8_7_0\Generate\iodefine"
+-lang=c
+-object="C:\WorkSpace\Honda_code\GamePad_A\Debug\pc_ctrl2.obj"
+-outcode=sjis
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\Honda_code\GamePad_A\pc_ctrl2.c"
+-nologo

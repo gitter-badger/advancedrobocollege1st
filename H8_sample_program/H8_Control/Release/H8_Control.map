@@ -1,0 +1,29 @@
+Optimizing Linkage Editor (V.9.05.01.000)         22-Aug-2014 18:21:35
+
+*** Options ***
+
+-subcommand=C:\WorkSpace\H8_sample_program\H8_Control\Release\H8_Control.hlk
+-noprelink
+-nodebug
+-rom=D=R
+-nomessage
+-list="C:\WorkSpace\H8_sample_program\H8_Control\Release\H8_Control.map"
+-nooptimize
+-start=PResetPRG,PIntPRG/0400,P,C,C$DSEC,C$BSEC,D/0800,B,R/0FB80,S/0FE80
+-nologo
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\dbsct.obj"
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\H8_sample.obj"
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\hwsetup.obj"
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\intprg.obj"
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\pc_ctrl.obj"
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\resetprg.obj"
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\sc_rs232c.obj"
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\Timer.obj"
+-input="C:\WorkSpace\H8_sample_program\H8_Control\Release\vstone_ctl.obj"
+-library="C:\WorkSpace\H8_sample_program\H8_Control\Release\H8_Control.lib"
+-output="C:\WorkSpace\H8_sample_program\H8_Control\Release\H8_Control.abs"
+-end
+
+*** Error information ***
+
+** L3300 (F) Cannot open file : "C:\WorkSpace\H8_sample_program\H8_Control\Release\H8_sample.obj"

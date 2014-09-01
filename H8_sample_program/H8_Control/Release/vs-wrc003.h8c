@@ -1,0 +1,8 @@
+-cpu=300HN
+-lang=c
+-object="C:\Users\nishimura\Desktop\OMNIKIT_0112\GamePad_A\Release\vs-wrc003.obj"
+-outcode=sjis
+-nolist
+-chgincpath
+"C:\Users\nishimura\Desktop\OMNIKIT_0112\GamePad_A\vs-wrc003.c"
+-nologo

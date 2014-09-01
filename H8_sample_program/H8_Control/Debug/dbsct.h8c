@@ -1,0 +1,10 @@
+-cpu=300HN
+-include="C:\WorkSpace\H8_sample_program\H8_Control"
+-lang=c
+-object="C:\WorkSpace\H8_sample_program\H8_Control\Debug\dbsct.obj"
+-outcode=sjis
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\H8_sample_program\H8_Control\dbsct.c"
+-nologo
