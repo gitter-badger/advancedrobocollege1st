@@ -1,5 +1,0 @@
--cpu=300HN
--output="C:\WorkSpace\H8_sample_program\H8_Control\Debug\H8_Control.lib"
--speed=register,switch,shift,struct,expression,loop=2,inline
--head=runtime,new,math,stdio,stdlib
--lang=c

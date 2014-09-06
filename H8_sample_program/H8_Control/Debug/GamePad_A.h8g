@@ -1,6 +1,0 @@
--cpu=300HN
--output="C:\Users\nishimura\Desktop\H8_OMNIKIT_20130202\H8_Control\Debug\GamePad_A.lib"
--optimize=0
--speed=register,switch,shift,struct,expression
--head=runtime,new,math,stdio,stdlib
--lang=c

@@ -1,4 +1,0 @@
--cpu=300HN
--output="C:\WorkSpace\H8_sample_program\H8_Control\Release\H8_Control.lib"
--head=runtime,new,stdio,stdlib
--lang=c
