@@ -1,6 +1,0 @@
-practice repo
-<<<<<<< HEAD
-change practice
-=======
-change master
->>>>>>> master
